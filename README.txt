@@ -46,8 +46,5 @@ Distributor Admin:			 upsadmin			  upsadmin
 - P.S (Don't share this code with anyone, its only meant for our project)
 
 
-Varun Murthy
-
-
 
 
