@@ -1,0 +1,14 @@
+# build 
+/build
+
+# remove dist
+/dist
+
+# remove folder
+/nbproject
+/test
+
+
+*.xml
+
+*.mf
